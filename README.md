@@ -4,3 +4,4 @@ An interactive website with Python and Streamlit. Users can load, explore, visua
 The users would also be able to view the scores (Accuracy Score, Precision Score, Recall Score and F1 Score) as well as view the plotted Confusion Matrix and ROC - Curve for the chosen classifier. 
 The website was tested for a mushroom dataset to classify them as edible or poisonous.
 "# ML-website" 
+"# Classification-WebApp" 
